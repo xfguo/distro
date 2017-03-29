@@ -54,7 +54,7 @@
 	url = https://github.com/soumith/cudnn.torch.git
 [submodule "exe/trepl"]
 	path = exe/trepl
-	url = https://github.com/torch/trepl.git
+	url = https://github.com/xfguo/trepl.git
 [submodule "extra/nnx"]
 	path = extra/nnx
 	url = https://github.com/clementfarabet/lua---nnx.git
